@@ -93,7 +93,9 @@ The program will then show the main menu.
 
 
 ===============================================================
-                 STUDENT MANAGEMENT SYSTEM
+
+#            STUDENT MANAGEMENT SYSTEM
+
 ===============================================================
 
 1. MANAGE STUDENTS
